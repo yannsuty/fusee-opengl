@@ -1,0 +1,6 @@
+#Visual Studio Output
+x64/
+#Visual Studio config
+.vs/
+*.sln
+*.vcxproj*
