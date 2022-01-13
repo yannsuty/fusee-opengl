@@ -4,3 +4,15 @@ x64/
 .vs/
 *.sln
 *.vcxproj*
+#Cmake files global
+CMakeFiles/
+out/
+cmake_install.cmake
+CMakeCache.txt
+intall_manifest.txt
+#Cmake source
+src/fusee.dir/
+src/Debug/
+src/CMakeFiles/
+src/*.vcxproj*
+src/cmake_install.cmake
